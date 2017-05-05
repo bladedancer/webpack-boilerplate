@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "extends": "eslint-config-airbnb-base",
+  "rules": {
+    "no-console": 0,
+    "linebreak-style": 0,
+    "import/no-extraneous-dependencies": 0
+  }
+}

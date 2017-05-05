@@ -1,0 +1,11 @@
+$page-color: #0F0;
+$text-color: #F00;
+
+body {
+  background-color: $page-color;
+
+  p {
+    font-weight: bold;
+    color: $text-color;
+  }
+}
